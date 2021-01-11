@@ -1,2 +1,2 @@
 # Wangkai Jin's Blog
-Template steal from [here](https://lilianweng.github.io/lil-log/)
+Template credited to [here](https://lilianweng.github.io/lil-log/)
