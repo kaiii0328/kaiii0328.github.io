@@ -1,3 +1,2 @@
-# Wangkai Jin's blog
-
-Supported by  [Hydejack](https://hydejack.com/).
+# Wangkai Jin's Blog
+Template steal from [here](https://lilianweng.github.io/lil-log/)
