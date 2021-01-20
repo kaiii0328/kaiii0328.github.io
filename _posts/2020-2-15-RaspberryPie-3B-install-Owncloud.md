@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 树莓派3B安装Owncloud问题汇总
-description: >
-  把在树莓派 3B 上搭建 Owncloud 私有云盘遇到的奇奇怪怪的问题做了一个汇总。新手上路，希望帮助到有需要的人！
 date: 2020-02-15 12:00:00
 tags: raspberry-pie owncloud
 
